@@ -1,0 +1,46 @@
+One Year Loan Table
+
+Enter the annual interest rate: 15
+The initial loan is 1000
+The monthly payment is 50
+The annual interest rate is15.0
+
+Simple Loan Payment Table For One Year
+
+Month	Balance
+1		962.5
+2		924.53125
+3		886.087890625
+4		847.1639892578125
+5		807.7535391235352
+6		767.8504583625794
+7		727.4485890921117
+8		686.541696455763
+9		645.12346766146
+10		603.1875110072283
+11		560.7273548948186
+12		517.7364468310038
+
+Detailed Loan Table
+
+Enter Initial balance:
+5000
+Enter Annual Interest rate
+12
+Enter Monthly payment
+400
+Enter number of months
+8
+The initial loan is 5000
+The monthly payment is 400
+The annual interest rate is12.0
+
+Month		Balance			Payment			Remaining
+1			5050.00			400.00			4650.00
+2			4696.50			400.00			4296.50
+3			4339.47			400.00			3939.47
+4			3978.86			400.00			3578.86
+5			3614.65			400.00			3214.65
+6			3246.79			400.00			2846.79
+7			2875.26			400.00			2475.26
+8			2500.02			400.00			2100.02
